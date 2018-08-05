@@ -132,12 +132,12 @@ namespace HET
             else if (sumaNadrukow > 50 && sumaNadrukow <= 99)
             {
                  kosztyNadrukuRabat = (double.Parse(listView51_99.Items[indexComboBox].Text) * sumaNadrukow) * (1.0 - rabat);
-                kosztyNadrukuRabat = double.Parse(listView51_99.Items[indexComboBox].Text) * sumaNadrukow;
+                kosztyNadrukuBezRabat = double.Parse(listView51_99.Items[indexComboBox].Text) * sumaNadrukow;
             }
             else if (sumaNadrukow >= 100 && sumaNadrukow <= 499)
             {
                   kosztyNadrukuRabat = (double.Parse(listView100_499.Items[indexComboBox].Text) * sumaNadrukow) * (1.0 - rabat);
-                kosztyNadrukuRabat = (double.Parse(listView100_499.Items[indexComboBox].Text)) * sumaNadrukow;
+                kosztyNadrukuBezRabat = (double.Parse(listView100_499.Items[indexComboBox].Text)) * sumaNadrukow;
             }
             kosztyNadrukuRabat = Math.Round(kosztyNadrukuRabat, 2 ,MidpointRounding.AwayFromZero);
            

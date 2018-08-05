@@ -1,0 +1,10 @@
+C:\Users\mrpol\source\repos\HET\HET\bin\Debug\HET.exe.config
+C:\Users\mrpol\source\repos\HET\HET\bin\Debug\HET.exe
+C:\Users\mrpol\source\repos\HET\HET\bin\Debug\HET.pdb
+C:\Users\mrpol\source\repos\HET\HET\obj\Debug\HET.csprojResolveAssemblyReference.cache
+C:\Users\mrpol\source\repos\HET\HET\obj\Debug\HET.Properties.Resources.resources
+C:\Users\mrpol\source\repos\HET\HET\obj\Debug\HET.csproj.GenerateResource.cache
+C:\Users\mrpol\source\repos\HET\HET\obj\Debug\HET.csproj.CoreCompileInputs.cache
+C:\Users\mrpol\source\repos\HET\HET\obj\Debug\HET.exe
+C:\Users\mrpol\source\repos\HET\HET\obj\Debug\HET.pdb
+C:\Users\mrpol\source\repos\HET\HET\obj\Debug\HET.Hetman.resources
